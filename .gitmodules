@@ -4,3 +4,6 @@
 [submodule "Windows-Cache-Clear"]
 	path = Windows-Cache-Clear
 	url = https://github.com/gokulappavu/Windows-Cache-Clear.git
+[submodule "Windows-RecycleBin-Empty"]
+	path = Windows-RecycleBin-Empty
+	url = https://github.com/gokulappavu/Windows-RecycleBin-Empty.git
