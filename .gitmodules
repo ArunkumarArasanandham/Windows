@@ -1,0 +1,6 @@
+[submodule "Windows-Activator"]
+	path = Windows-Activator
+	url = https://github.com/gokulappavu/Windows-Activator.git
+[submodule "Windows-Cache-Clear"]
+	path = Windows-Cache-Clear
+	url = https://github.com/gokulappavu/Windows-Cache-Clear.git
